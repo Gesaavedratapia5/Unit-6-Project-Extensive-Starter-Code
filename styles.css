@@ -1,0 +1,81 @@
+body {
+    color: black;
+    text-align: center;
+    font-family: 'Roboto Serif', sans-serif;
+    background-color: #42b4ff;
+    justify-content: center;
+}
+
+.title {
+    font-size: 50px;
+    background-color: #ffff00;
+    font-weight: 800;
+    padding: 0 20px;
+    display: flex;
+    border: groove yellow 10px;
+
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+
+.firstImage {
+    height: 350px;
+}
+
+.yes-button {
+    height: 40px;
+}
+
+
+.Part-Two-Yes {
+    font-family: 'Roboto Serif', sans-serif;
+   
+}
+
+
+.Part-Two-No {
+    font-family: 'Roboto Serif', sans-serif;
+    
+}
+
+.Story-Ending-Yes {
+    font-family: 'Roboto Serif', sans-serif;
+    
+    
+}
+
+.Story-Ending-No {
+    font-family: 'Roboto Serif', sans-serif;
+    
+}
+
+.treasure-img {
+    height: 300px;
+}
+
+h1 {
+    font-size: 50px;
+    color: black;
+}
+
+img {
+    width: 450px;
+    margin: 50px;
+    
+}
+
+button {
+    margin: 50px;
+}
+
+
